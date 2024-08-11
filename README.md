@@ -38,4 +38,4 @@ The project files are stored in following folder structure:
 04 Analysis: The Visualizations subfolder contains the visualizations used for developing and explaining insights.
 05 Sent to Client: The final report presented in Excel.
 ### Final Deliverable
-For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](). This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
+For a comprehensive view of my findings and recommendations, please refer to the [Final Project PDF](https://github.com/Manishatomar/Dataset/blob/main/A4_final_report_Instacart-4.10-Manisha.xlsx). This analysis is not only about uncovering current trends but also about predicting future customer behaviors, thereby enabling Instacart to stay ahead in a competitive market.
